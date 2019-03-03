@@ -2,12 +2,8 @@
   <div class="home">首页</div>
 </template>
 
-<script>
-  export default {
-    name: "index"
-  }
-</script>
+<script src="./home.js"></script>
 
-<style scoped lang="scss">
+<style scoped lang="scss" src="./home.scss">
 
 </style>
