@@ -29,3 +29,4 @@ export default function request(url, type='GET', data={}) {
     })
   })
 }
+
